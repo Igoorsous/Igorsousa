@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Igor Sousa.
 
 -📚 Estou estudando Javascript
--📩 Contate-me no email: igorsousasilva22@gmail.com
+-📩 Contato no email: igorsousasilva22@gmail.com
 
 <div align="center">
   <a href="https://github.com/igoorsous">
@@ -9,7 +9,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg">
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
+  <img align="center" alt="Igor-HTML" height="130" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
   </div>
   
   ##
